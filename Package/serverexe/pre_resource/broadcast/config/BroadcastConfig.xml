@@ -1,0 +1,23 @@
+<root>
+  <config ssid="yaogunhu" pswd="0123456" serverip="192.168.1.0" port="8081" id="0" />
+  <Apps>
+    <AppList />
+    <AppCategories />
+  </Apps>
+  <Clients>
+    <ClientList>
+      <client id="01" category="1" sn="Pal70856347897" />
+    </ClientList>
+    <ClientCategories>
+      <category index="1" name="test" />
+    </ClientCategories>
+  </Clients>
+  <Videos>
+    <VideoList />
+    <VideoCategories />
+  </Videos>
+  <Pictures>
+    <PictureList />
+    <PictureCategories />
+  </Pictures>
+</root>

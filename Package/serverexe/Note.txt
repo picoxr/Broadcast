@@ -1,0 +1,3 @@
+Note!!!
+The xml file in pre_resource is for reference only,please configure according to the actual situation.
+!!!
