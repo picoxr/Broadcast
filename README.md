@@ -11,7 +11,7 @@ Pico Broadcast Platform consists of two parts: Server and Client.Open-sourced co
 
 I.Copy the "pre resource" folder under the broadcast server to the root directory of the device system, if the folder already exists in the directory, merge the folder;
 II. Copy broadcast_client.apk to the root directory of the system;
-III. copy the application to be broadcast controlled to the root directory; (if the application is not broadcast controlled, ignore this step)
+III.Copy the application to be broadcast controlled to the root directory; (if the application is not broadcast controlled, ignore this step)
 
 Note:The APK packaged on the client needs to be signed, and the signing account can be provided by contacting Pico technical support.
 
