@@ -5,7 +5,7 @@ Unity 2017.2.2f1
 
 ## Description:
 
-PicoVR Broadcast Platform is developed by Pico Technology, which aims to provide synchronized multi-user experiences. In this solution, multiple VR standalone headsets will work as clients and PC as server. Server controls all clients all together using the same local network.
+PicoVR Broadcast Platform provides synchronized multi-user experiences. In this solution, multiple VR standalone headsets will work as clients and PC as server. Server controls all clients all together using the same local network.
 
 Pico Broadcast Platform consists of two parts: Server and Client.Open-sourced codes includes both parts,to watch the project effect,we need:
 
