@@ -17,12 +17,15 @@ Here are the screenshot of Broadcast Platform:
 
 
 Server
+
 <a> <img src="https://github.com/picoxr/Broadcast/blob/master/serverpicture.png" width="500"/> </a>
 
 Client in free mode
+
 <a> <img src="https://github.com/picoxr/Broadcast/blob/master/freemode.png" width="500"/> </a>
 
 Client in kiosk mode
+
 <a> <img src="https://github.com/picoxr/Broadcast/blob/master/kioskmode.png" width="500"/> </a>
 
 ## Server Usage:
