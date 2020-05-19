@@ -1,0 +1,23 @@
+#this config file is for user to define home key
+
+#the value 3 means the key will go to setting
+#the value 2 means the key will go home
+#the value 1 means the key will do the defined action
+#the value 0 means the key will do nothing
+#if you want use system default config, please delete it
+action_home_single_tap=0
+#action_home_double_tap=0
+action_home_long_press=6
+time_home_double_tap=400
+time_home_long_press=1500
+
+#you set the action by package and class name
+#you must set it if the action value is 1
+#action_home_single_tap_package=com.example.systemconfig
+#action_home_single_tap_class=com.example.systemconfig.Activity1
+
+#action_home_double_tap_package=com.example.systemconfig
+#action_home_double_tap_class=com.example.systemconfig.Activity2
+
+#action_home_long_press_package=com.example.systemconfig
+#action_home_long_press_class=com.example.systemconfig.Activity3
