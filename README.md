@@ -19,8 +19,13 @@ Here are the pictures of Broadcast Platform:
 
 Server
 
+<a> <img src="https://github.com/picoxr/Broadcast/blob/master/freemode.png" width="500"/> </a>
+
+Client in free mode
 
 
+
+Client in kiosk mode
 ## Server Usage:
 
 Scene: Assets->Project->Scene->Server
