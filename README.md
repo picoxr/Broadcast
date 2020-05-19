@@ -13,6 +13,9 @@ Copy the "pre resource" folder under the broadcast server to the root directory 
 
 Note:The APK packaged on the client needs to be signed, and the signing account can be provided by contacting Pico technical support.
 
+Here are the pictures of Broadcast Platform:
+
+
 ## Server Usage:
 
 Scene: Assets->Project->Scene->Server
