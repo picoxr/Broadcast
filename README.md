@@ -15,7 +15,7 @@ Note:The APK packaged on the client needs to be signed, and the signing account 
 
 Here are the pictures of Broadcast Platform:
 
-<a> <img src="https://github.com/picoxr/Broadcast/blob/master/picture.png" width="500"/> </a>
+
 
 Server
 
