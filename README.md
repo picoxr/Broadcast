@@ -24,8 +24,11 @@ Server
 Client in free mode
 
 
+<a> <img src="https://github.com/picoxr/Broadcast/blob/master/kioskmode.png" width="500"/> </a>
+
 
 Client in kiosk mode
+
 ## Server Usage:
 
 Scene: Assets->Project->Scene->Server
