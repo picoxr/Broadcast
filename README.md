@@ -16,17 +16,13 @@ Note:The APK packaged on the client needs to be signed, and the signing account 
 Here are the pictures of Broadcast Platform:
 
 <a> <img src="https://github.com/picoxr/Broadcast/blob/master/serverpicture.png" width="500"/> </a>
-
 Server
 
 <a> <img src="https://github.com/picoxr/Broadcast/blob/master/freemode.png" width="500"/> </a>
-
 Client in free mode
 
 
 <a> <img src="https://github.com/picoxr/Broadcast/blob/master/kioskmode.png" width="500"/> </a>
-
-
 Client in kiosk mode
 
 ## Server Usage:
