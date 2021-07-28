@@ -1,4 +1,7 @@
 # Broadcast
+
+- If you have any questions/comments, please visit [**Pico Developer Answers**](https://devanswers.pico-interactive.com/) and raise your question there.
+
 ## Unity Versions:
 
 Unity 2017.2.2f1
@@ -36,8 +39,6 @@ Scene: Assets->Project->Scene->Server
 
 Scene: Assets->main
 
-## Note:
-- If you have any questions/comments, please raise requests at [**PicoDevSupport Portal**](https://picodevsupport.atlassian.net/servicedesk/customer/user/login?
 
 
 
